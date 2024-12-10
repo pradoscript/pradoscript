@@ -1,7 +1,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de Informações no USP.
+- 🎓 Estudando Sistemas de Informações na USP.
 - 🌱 Aprendendo mais sobre React
 
 ## Minhas Skills
