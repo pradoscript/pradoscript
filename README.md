@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Prado</h1>
-<h3 align="center">FrontEnd developer and System Information Student At USP</h3>
-
-- 🌱 I’m currently learning **Next.Js**
+<h3 align="center">Software Developer and System Information Student At USP</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - 📫 How to reach me **pradodev64@gmail.com**
 
