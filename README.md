@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=540380&section=header&reversal=true"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4986&pause=1000&color=A11DF7&width=435&lines=Desenvolvedor+FullStack;Estudande+de+Sistemas+de+Informa%C3%A7%C3%A3o+na+USP)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4986&pause=1000&color=A11DF7&width=435&lines=Desenvolvedor+FullStack)](https://git.io/typing-svg)
 💻 **Desenvolvedor FullStack** apaixonado por Backend, focando em Java e Spring.
 
 <div align="center">  
