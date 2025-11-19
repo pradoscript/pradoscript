@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=540380&section=header&reversal=true"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5102&pause=1000&color=00F750&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Marcel+Ara%C3%BAjo!;Estudante+de+Engenharia+de+Software+PUCPR;Tenho+19+anos;Seja+bem-vindo!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4986&pause=1000&color=A11DF7&width=435&lines=Desenvolvedor+FullStack;Estudande+de+Sistemas+de+Informa%C3%A7%C3%A3o+na+USP)](https://git.io/typing-svg)
 💻 **Desenvolvedor FullStack** apaixonado por Backend, focando em Java e Spring.
 <div align="center">  
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradoscript&layout=compact&hide_border=true&title_color=8936ff&text_color=c336ff&bg_color=3b0054" />
