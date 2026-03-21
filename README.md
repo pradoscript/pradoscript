@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4986&pause=1000&color=A11DF7&width=435&lines=Desenvolvedor+FullStack)](https://git.io/typing-svg)
 
-💻 **Desenvolvedor FullStack** apaixonado por Backend, focando em Java e Spring.
+💻 **Desenvolvedor FullStack** apaixonado por Backend
 
 <br><br>
 
